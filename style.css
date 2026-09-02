@@ -314,8 +314,8 @@ body {
 }
 
 .hero-avatar-frame img {
-    width: 120%;
-    height: 110%;
+    width: 100%;
+    height: 100%;
     display: block;
     object-fit: cover;
     object-position: 45% 30%;
